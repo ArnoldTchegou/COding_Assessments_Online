@@ -5,7 +5,7 @@ public class Closestdelivery{
         ArrayList<Integer[]> result = new ArrayList<>();
         //Array to store sorted points wrt distance
         ArrayList<Integer[]> sortedMap = new ArrayList<>();
-        //map of distances and arrays
+        //map of distances and points
         Map<Integer[], Double> distance = new HashMap<>();
         //list containning sorted distances
         ArrayList<Double> list = new ArrayList<>();
